@@ -11,4 +11,4 @@ for b in range (0, ((n+1)//2)+1):
 print(sum(op)%10007)
 end_time = time.time()
 time3 = end_time - start_time
-print(time3)
+print(time3) 
