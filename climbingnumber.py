@@ -4,6 +4,7 @@ if length==1:
     print(10)
 else:
     d = [i for i in range(1, 11)]
+    print(d)
     if length==2:
         print(sum(d))
     elif length>=3:
